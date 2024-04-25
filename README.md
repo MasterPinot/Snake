@@ -1,3 +1,5 @@
+This is a python language 
+
 #by MasterPinot
 from tkinter import *
 import random
